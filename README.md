@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Galal Elkasaby.</h1>
 
- <p align="left" style="text-align:center"><center><img src="https://f.top4top.io/p_2445w4w8i1.png" alt="centered image" height="300" width="300"> </center></p>
+ <!-- <p align="left" style="text-align:center"><center><img src="https://f.top4top.io/p_2445w4w8i1.png" alt="centered image" height="300" width="300"> </center></p> -->
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=2FF729&lines=Hi+%2C+I'm+Galal+Elkasaby.;I'm+a+Computer+Engineer.;I'm+a+Control+Systems+Engineer." alt="Headline" />
     </div>
