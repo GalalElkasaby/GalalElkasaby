@@ -2,7 +2,7 @@
 
 # Hi, I'm Galal Elkasaby
 
-<img src="https://readme-typing-svg.herokuapp.com?color=22c55e&size=22&center=true&vCenter=true&width=440&lines=Computer+Engineer+%7C+Control+Systems+Engineer;CEO+%26+Founder+%E2%80%94+TEAM-X+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=22c55e&size=22&center=true&vCenter=true&width=520&duration=4000&lines=Computer+Engineer+%7C+Control+Systems+Engineer;CEO+%26+Founder+%40+TEAM-X+Digital+Solutions" alt="Typing SVG" />
 
 Building software, control systems, and digital solutions that scale.
 
@@ -22,7 +22,6 @@ Building software, control systems, and digital solutions that scale.
 - Passionate about **building products** that solve real problems and improve digital presence.
 - Background in **embedded systems**, automation, and full‑stack development.
 - I lead teams and projects that combine **strategy, creativity, and execution**.
-- *للتواصل السريع، راسلني على تليجرام.*
 
 ---
 
