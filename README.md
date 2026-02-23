@@ -2,7 +2,7 @@
 
 # Hi, I'm Galal Elkasaby
 
-<img src="https://readme-typing-svg.herokuapp.com?color=22c55e&size=22&center=true&vCenter=true&width=520&duration=4000&lines=Computer+Engineer+%7C;CEO+%26+Founder+%40+TEAM-X+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=22c55e&size=22&center=true&vCenter=true&width=520&duration=4000&lines=Computer+Engineer;CEO+%26+Founder+%40+TEAM-X+Digital+Solutions" alt="Typing SVG" />
 
 Building software, control systems, and digital solutions that scale.
 
